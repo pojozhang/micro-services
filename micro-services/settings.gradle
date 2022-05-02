@@ -1,0 +1,5 @@
+rootProject.name = 'micro-services'
+
+include ":goods-service",
+        ":order-service",
+        ":user-service"
